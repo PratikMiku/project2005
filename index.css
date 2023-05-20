@@ -1,0 +1,98 @@
+body {
+    background-color: azure;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2', cursive;
+font-family: 'Inter', sans-serif;
+margin:0px;
+padding:0px;
+}
+
+.navbar {
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    color: white;
+   margin:0px;
+
+}
+
+.aabb{
+    text-decoration: none;
+    color:white;
+    cursor: pointer;
+}
+.aabb:hover{
+    color:blue;
+}
+
+li {
+    list-style: none;
+    color: white;
+    display: inline-block;
+    padding: 5px 25px;
+}
+
+
+
+div .aa {
+    position: sticky;
+    display: inline-block;
+    left: 50px;
+    top: 5px;
+}
+
+div .bb {
+    position: sticky;
+    left: 900px;
+    top: 5px;
+    display: inline-block;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+#container1 {
+    width: 45%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 30px;
+
+
+}
+
+#container2 {
+    width: 45%;
+    background-color: white;
+
+    margin: 30px auto;
+    padding: 30px;
+}
+
+input {
+    width: 95%;
+    padding: 7px 10px;
+    margin: 10px 0px;
+}
+
+button {
+  
+    color: white;
+    background-color: black;
+    width:99%;
+   padding:10px;
+   cursor: pointer;
+   MARGIN-TOP:10PX;
+}
+.aa:hover{
+color:blue;
+}
